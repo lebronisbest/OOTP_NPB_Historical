@@ -1,158 +1,162 @@
-name: Pitch Repertoire
-description: Submit pitch repertoire information for a pitcher
+name: Pitch Repertoire Submission
+description: Submit pitch repertoires for pitchers
 title: "[Pitch] "
 labels: ["pitch-repertoire", "enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        ## Pitch Repertoire Project
-        Help us build accurate pitch repertoires for NPB pitchers!
+        ## Pitch Repertoire Submission
+        Submit pitcher repertoires! You can submit up to 5 pitchers at once.
+
+        List pitches in order of usage (primary pitch first).
+
+        ---
+        ### Pitcher 1
   - type: input
-    id: player_name
+    id: player1_name
     attributes:
-      label: Player Name
-      description: Pitcher's name (English or Japanese)
+      label: "Pitcher 1 - Name"
       placeholder: "e.g., Yu Darvish / ダルビッシュ有"
     validations:
       required: true
+  - type: checkboxes
+    id: player1_pitches
+    attributes:
+      label: "Pitcher 1 - Pitches (select all that apply, in order of usage)"
+      options:
+        - label: Fastball
+        - label: Slider
+        - label: Curve
+        - label: Changeup
+        - label: Splitter
+        - label: Forkball
+        - label: Sinker
+        - label: Cutter
+        - label: Knuckleball
+        - label: KnuckleCurve
+        - label: CircleChange
+        - label: Screwball
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### Pitcher 2 (optional)
   - type: input
-    id: player_id
+    id: player2_name
     attributes:
-      label: Player ID (if known)
-      placeholder: "e.g., darvish01"
+      label: "Pitcher 2 - Name"
+      placeholder: "e.g., Masahiro Tanaka"
     validations:
       required: false
-  - type: dropdown
-    id: pitch1
+  - type: checkboxes
+    id: player2_pitches
     attributes:
-      label: "1st Pitch (Primary)"
+      label: "Pitcher 2 - Pitches"
       options:
-        - Fastball
-        - Slider
-        - Curve
-        - Changeup
-        - Splitter
-        - Forkball
-        - Sinker
-        - Cutter
-        - Knuckleball
-        - KnuckleCurve
-        - CircleChange
-        - Screwball
-    validations:
-      required: true
-  - type: dropdown
-    id: pitch2
+        - label: Fastball
+        - label: Slider
+        - label: Curve
+        - label: Changeup
+        - label: Splitter
+        - label: Forkball
+        - label: Sinker
+        - label: Cutter
+        - label: Knuckleball
+        - label: KnuckleCurve
+        - label: CircleChange
+        - label: Screwball
+  - type: markdown
     attributes:
-      label: "2nd Pitch"
-      options:
-        - (None)
-        - Fastball
-        - Slider
-        - Curve
-        - Changeup
-        - Splitter
-        - Forkball
-        - Sinker
-        - Cutter
-        - Knuckleball
-        - KnuckleCurve
-        - CircleChange
-        - Screwball
+      value: |
+        ---
+        ### Pitcher 3 (optional)
+  - type: input
+    id: player3_name
+    attributes:
+      label: "Pitcher 3 - Name"
+      placeholder: "e.g., Shohei Ohtani"
     validations:
       required: false
-  - type: dropdown
-    id: pitch3
+  - type: checkboxes
+    id: player3_pitches
     attributes:
-      label: "3rd Pitch"
+      label: "Pitcher 3 - Pitches"
       options:
-        - (None)
-        - Fastball
-        - Slider
-        - Curve
-        - Changeup
-        - Splitter
-        - Forkball
-        - Sinker
-        - Cutter
-        - Knuckleball
-        - KnuckleCurve
-        - CircleChange
-        - Screwball
+        - label: Fastball
+        - label: Slider
+        - label: Curve
+        - label: Changeup
+        - label: Splitter
+        - label: Forkball
+        - label: Sinker
+        - label: Cutter
+        - label: Knuckleball
+        - label: KnuckleCurve
+        - label: CircleChange
+        - label: Screwball
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### Pitcher 4 (optional)
+  - type: input
+    id: player4_name
+    attributes:
+      label: "Pitcher 4 - Name"
+      placeholder: "e.g., Koji Uehara"
     validations:
       required: false
-  - type: dropdown
-    id: pitch4
+  - type: checkboxes
+    id: player4_pitches
     attributes:
-      label: "4th Pitch"
+      label: "Pitcher 4 - Pitches"
       options:
-        - (None)
-        - Fastball
-        - Slider
-        - Curve
-        - Changeup
-        - Splitter
-        - Forkball
-        - Sinker
-        - Cutter
-        - Knuckleball
-        - KnuckleCurve
-        - CircleChange
-        - Screwball
+        - label: Fastball
+        - label: Slider
+        - label: Curve
+        - label: Changeup
+        - label: Splitter
+        - label: Forkball
+        - label: Sinker
+        - label: Cutter
+        - label: Knuckleball
+        - label: KnuckleCurve
+        - label: CircleChange
+        - label: Screwball
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### Pitcher 5 (optional)
+  - type: input
+    id: player5_name
+    attributes:
+      label: "Pitcher 5 - Name"
+      placeholder: "e.g., Hideo Nomo"
     validations:
       required: false
-  - type: dropdown
-    id: pitch5
+  - type: checkboxes
+    id: player5_pitches
     attributes:
-      label: "5th Pitch"
+      label: "Pitcher 5 - Pitches"
       options:
-        - (None)
-        - Fastball
-        - Slider
-        - Curve
-        - Changeup
-        - Splitter
-        - Forkball
-        - Sinker
-        - Cutter
-        - Knuckleball
-        - KnuckleCurve
-        - CircleChange
-        - Screwball
-    validations:
-      required: false
-  - type: dropdown
-    id: pitch6
-    attributes:
-      label: "6th Pitch"
-      options:
-        - (None)
-        - Fastball
-        - Slider
-        - Curve
-        - Changeup
-        - Splitter
-        - Forkball
-        - Sinker
-        - Cutter
-        - Knuckleball
-        - KnuckleCurve
-        - CircleChange
-        - Screwball
-    validations:
-      required: false
+        - label: Fastball
+        - label: Slider
+        - label: Curve
+        - label: Changeup
+        - label: Splitter
+        - label: Forkball
+        - label: Sinker
+        - label: Cutter
+        - label: Knuckleball
+        - label: KnuckleCurve
+        - label: CircleChange
+        - label: Screwball
   - type: textarea
     id: notes
     attributes:
       label: Notes (optional)
-      placeholder: "e.g., Fastball tops out at 160 km/h"
-    validations:
-      required: false
-  - type: input
-    id: source
-    attributes:
-      label: Source (optional)
-      placeholder: "e.g., YouTube, NPB broadcast"
+      placeholder: "Any additional context (e.g., pitch order, velocity)"
     validations:
       required: false

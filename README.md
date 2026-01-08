@@ -38,12 +38,10 @@ Found an error? Want to suggest a nickname?
 
 - Use the **Issues** tab to submit requests
 - Available templates:
-  - **Nickname Request** - Add/change player nicknames
-  - **Bulk Nickname** - Submit multiple nicknames at once
+  - **Nickname** - Submit player nicknames
+  - **Pitch Repertoire** - Submit pitcher's pitch types
   - **Stat Correction** - Report incorrect stats
   - **Missing Player** - Report missing players
-  - **Pitch Repertoire** - Submit pitcher's pitch types
-  - **Bulk Pitch Repertoire** - Submit multiple pitch repertoires at once
   - **Feature Request** - Suggest improvements
 
 ## License

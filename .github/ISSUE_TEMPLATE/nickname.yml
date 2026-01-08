@@ -1,13 +1,13 @@
-name: Bulk Nickname Submission
-description: Submit nicknames for multiple players at once
-title: "[Nickname Bulk] "
-labels: ["nickname", "enhancement", "bulk"]
+name: Nickname Submission
+description: Submit nicknames for players
+title: "[Nickname] "
+labels: ["nickname", "enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        ## Bulk Nickname Submission
-        Submit multiple player nicknames at once!
+        ## Nickname Submission
+        Submit player nicknames!
 
         **Format:** `Player Name | Nickname`
 
