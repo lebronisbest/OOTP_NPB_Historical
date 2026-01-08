@@ -25,6 +25,7 @@ NPB (Nippon Professional Baseball) historical database for Out of the Park Baseb
 - `uniforms/` - Uniform files (ballcap, jerseys, pants, socks)
 - `schedules/` - Schedule files
 - `fg_files/` - Facegen files
+- `tools/` - Tools (scheduler, etc.)
 
 ## Installation
 
