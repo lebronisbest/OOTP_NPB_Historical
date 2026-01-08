@@ -80,12 +80,12 @@ Use the OOTP registered team name (not the real corporate name).
 
 ### Logos
 ```
-teamname_startyear-endyear_color1_color2.png
+teamname_startyear-endyear_hex1_hex2.png
 ```
 Examples:
-- `tokyo_giants_1961-1974_orange_black.png`
-- `tokyo_giants_1975-1992_orange_black.png`
-- `osaka_tigers_1961-1999_yellow_black.png`
+- `tokyo_giants_1961-1974_F97709_000000.png`
+- `tokyo_giants_1975-1992_F97709_000000.png`
+- `osaka_tigers_1961-1999_FFE100_000000.png`
 
 ### Uniforms
 ```

@@ -80,12 +80,12 @@ OOTP에 등록된 팀명을 사용하세요 (실제 기업명 X).
 
 ### 로고
 ```
-팀명_시작연도-종료연도_색상1_색상2.png
+팀명_시작연도-종료연도_hex1_hex2.png
 ```
 예시:
-- `tokyo_giants_1961-1974_orange_black.png`
-- `tokyo_giants_1975-1992_orange_black.png`
-- `osaka_tigers_1961-1999_yellow_black.png`
+- `tokyo_giants_1961-1974_F97709_000000.png`
+- `tokyo_giants_1975-1992_F97709_000000.png`
+- `osaka_tigers_1961-1999_FFE100_000000.png`
 
 ### 유니폼
 ```
