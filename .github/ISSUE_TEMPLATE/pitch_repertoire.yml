@@ -23,13 +23,6 @@ body:
       placeholder: "e.g., darvish01"
     validations:
       required: false
-  - type: input
-    id: years
-    attributes:
-      label: Years
-      placeholder: "e.g., 2010-2011 or career"
-    validations:
-      required: false
   - type: dropdown
     id: pitch1
     attributes:
