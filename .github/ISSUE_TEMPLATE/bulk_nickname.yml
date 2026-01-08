@@ -1,0 +1,34 @@
+name: Bulk Nickname Submission
+description: Submit nicknames for multiple players at once
+title: "[Nickname Bulk] "
+labels: ["nickname", "enhancement", "bulk"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Bulk Nickname Submission
+        Submit multiple player nicknames at once!
+
+        **Format:** `Player Name | Nickname`
+
+        One player per line.
+  - type: textarea
+    id: nicknames
+    attributes:
+      label: Nicknames
+      description: "Format: Player Name | Nickname (one per line)"
+      placeholder: |
+        Shohei Ohtani | Shotime
+        Sadaharu Oh | World Home Run King
+        Ichiro Suzuki | Ichiro
+        Yu Darvish | Yu
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      placeholder: "Any additional context"
+    validations:
+      required: false
