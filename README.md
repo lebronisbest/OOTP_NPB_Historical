@@ -28,16 +28,26 @@ The most comprehensive Nippon Professional Baseball (NPB) historical database fo
 
 ## Installation
 
-### OOTP 25/24
+### OOTP 26
 
 1. Download `NPB_Historical_v1.0.0.zip` from [Releases](../../releases)
-2. Extract the zip file
-3. Copy contents to your OOTP installation:
-   - Windows: `C:\Program Files (x86)\Out of the Park Developments\OOTP Baseball 25\data\historical\`
-   - Mac: `/Applications/OOTP Baseball 25/data/historical/`
-4. Start OOTP → New Game → Historical → Select **NPB**
+2. Extract the zip file anywhere
+3. Start OOTP 26 → New Game → Historical
+4. Click **"Select Database"** and navigate to the extracted folder
+5. Select the NPB database
 
-> **IMPORTANT**: When setting up your historical game, make sure to set the league name to **"Japanese Probaseball League"** for proper functionality.
+### OOTP 25 and earlier
+
+1. Download `NPB_Historical_v1.0.0.zip` from [Releases](../../releases)
+2. **Backup your original files first!** (MLB historical will be overwritten)
+3. Extract and overwrite files to:
+   - Steam: `C:\Program Files (x86)\Steam\steamapps\common\Out of the Park Baseball 25\data\database\`
+   - Standalone: `C:\Program Files (x86)\Out of the Park Developments\OOTP Baseball 25\data\database\`
+4. Start OOTP → New Game → Historical
+
+> **IMPORTANT**: When setting up your historical game, set the league name to **"Japanese Probaseball League"** for proper functionality.
+>
+> **WARNING**: For OOTP 25 and earlier, this will replace your MLB historical database. Make sure to backup the original `data\database` folder if you want to play MLB historical later.
 
 ## File Structure
 

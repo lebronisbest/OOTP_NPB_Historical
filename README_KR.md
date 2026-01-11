@@ -28,16 +28,26 @@ OOTP Baseball용 가장 완벽한 NPB (일본프로야구) 히스토리컬 데�
 
 ## 설치 방법
 
-### OOTP 25/24
+### OOTP 26
 
 1. [Releases](../../releases)에서 `NPB_Historical_v1.0.0.zip` 다운로드
-2. zip 파일 압축 해제
-3. OOTP 설치 폴더에 복사:
-   - Windows: `C:\Program Files (x86)\Out of the Park Developments\OOTP Baseball 25\data\historical\`
-   - Mac: `/Applications/OOTP Baseball 25/data/historical/`
-4. OOTP 실행 → 새 게임 → 히스토리컬 → **NPB** 선택
+2. 아무 폴더에 압축 해제
+3. OOTP 26 실행 → 새 게임 → 히스토리컬
+4. **"데이터베이스 선택하기"** 클릭 → 압축 해제한 폴더로 이동
+5. NPB 데이터베이스 선택
+
+### OOTP 25 이하
+
+1. [Releases](../../releases)에서 `NPB_Historical_v1.0.0.zip` 다운로드
+2. **먼저 원본 파일 백업!** (MLB 히스토리컬이 덮어씌워짐)
+3. 다음 경로에 압축 해제 후 덮어쓰기:
+   - Steam: `C:\Program Files (x86)\Steam\steamapps\common\Out of the Park Baseball 25\data\database\`
+   - 단독 설치: `C:\Program Files (x86)\Out of the Park Developments\OOTP Baseball 25\data\database\`
+4. OOTP 실행 → 새 게임 → 히스토리컬
 
 > **중요**: 히스토리컬 게임 설정 시 리그 이름을 반드시 **"Japanese Probaseball League"**로 설정하세요.
+>
+> **주의**: OOTP 25 이하 버전에서는 MLB 히스토리컬 데이터베이스가 대체됩니다. 나중에 MLB 히스토리컬을 플레이하려면 반드시 원본 `data\database` 폴더를 백업해두세요.
 
 ## 파일 구조
 
