@@ -37,6 +37,8 @@ OOTP Baseball용 가장 완벽한 NPB (일본프로야구) 히스토리컬 데�
    - Mac: `/Applications/OOTP Baseball 25/data/historical/`
 4. OOTP 실행 → 새 게임 → 히스토리컬 → **NPB** 선택
 
+> **중요**: 히스토리컬 게임 설정 시 리그 이름을 반드시 **"Japanese Probaseball League"**로 설정하세요.
+
 ## 파일 구조
 
 ```

@@ -37,6 +37,8 @@ The most comprehensive Nippon Professional Baseball (NPB) historical database fo
    - Mac: `/Applications/OOTP Baseball 25/data/historical/`
 4. Start OOTP → New Game → Historical → Select **NPB**
 
+> **IMPORTANT**: When setting up your historical game, make sure to set the league name to **"Japanese Probaseball League"** for proper functionality.
+
 ## File Structure
 
 ```
