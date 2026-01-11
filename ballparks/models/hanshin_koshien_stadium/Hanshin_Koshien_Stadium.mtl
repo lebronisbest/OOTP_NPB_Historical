@@ -1,0 +1,422 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Hanshin_Koshien_Stadium.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Crowd_new_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.376471 0.352941
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3.jpg
+
+newmtl crowd_new_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.384314 0.364706
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity4.jpg
+
+newmtl Crowd_new_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.376471 0.352941
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity1.jpg
+
+newmtl Blacktop_Old_02
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.568627 0.568627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Blacktop_Old_02.jpg
+
+newmtl Polished_Concrete_Old
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Polished_Concrete_Old.jpg
+
+newmtl field_grass2
+Ka 0.000000 0.000000 0.000000
+Kd 0.262745 0.376471 0.152941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/field_grass2.png
+
+newmtl Grass_Dark_Green
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.615686 0.364706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Grass_Dark_Green.jpg
+
+newmtl Groundcover_Sand_Smooth
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.141176 0.098039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Groundcover_Sand_Smooth.jpg
+
+newmtl Brick_Common_Bond1
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.239216 0.200000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Brick_Common_Bond1.png
+
+newmtl wrigleyChainLinkFence
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.078431
+Ks 0.000000 0.000000 0.000000
+d 0.990000
+map_Kd Hanshin_Koshien_Stadium_Textures/wrigleyChainLinkFence.png
+
+newmtl wrigleyChainLinkFence1
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.713725 0.768627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/wrigleyChainLinkFence1.png
+
+newmtl Material6
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Material6.jpg
+
+newmtl blackbackground
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.176471 0.176471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/blackbackground.jpg
+
+newmtl Blinds_Vertical_Pattern
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.192157 0.215686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Blinds_Vertical_Pattern.JPG
+
+newmtl foul_pole_yellow
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.905882 0.152941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/foul_pole_yellow.jpg
+
+newmtl Metal_Aluminum_Anodized2
+Ka 0.000000 0.000000 0.000000
+Kd 0.921569 0.952941 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Metal_Aluminum_Anodized2.jpg
+
+newmtl Material10
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.239216 0.200000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Material10.jpg
+
+newmtl igl_det_tex_sea_path_v01
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.639216 0.607843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/igl_det_tex_sea_path_v01.jpg
+
+newmtl tokyo_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.282353 0.341176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/tokyo_ad3.png
+
+newmtl tokyo_ad1
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.494118 0.490196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/tokyo_ad1.png
+
+newmtl tokyo_ad11
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.556863 0.615686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/tokyo_ad11.png
+
+newmtl yoko_ad8
+Ka 0.000000 0.000000 0.000000
+Kd 0.909804 0.874510 0.874510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad8.png
+
+newmtl yoko_ad5
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.258824 0.372549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad5.png
+
+newmtl yoko_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.474510 0.474510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad3.png
+
+newmtl yoko_ad10
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.192157 0.215686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad10.png
+
+newmtl tokyo_ad4
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.376471 0.478431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/tokyo_ad4.png
+
+newmtl yoko_ad11
+Ka 0.000000 0.000000 0.000000
+Kd 0.835294 0.870588 0.925490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad11.png
+
+newmtl tokyo_ad9
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.454902 0.478431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/tokyo_ad9.png
+
+newmtl yoko_ad6
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.521569 0.709804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad6.png
+
+newmtl japan_ad1
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.905882 0.890196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_ad1.PNG
+
+newmtl japan_ad2
+Ka 0.000000 0.000000 0.000000
+Kd 0.929412 0.882353 0.886275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_ad2.PNG
+
+newmtl mizuno
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.556863 0.721569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/mizuno.PNG
+
+newmtl japan_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.588235 0.615686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_ad3.PNG
+
+newmtl japan_ad5
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.513725 0.568627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_ad5.PNG
+
+newmtl OriolePark_UpperBrace12
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.352941 0.368627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/OriolePark_UpperBrace12.png
+
+newmtl newtex
+Ka 0.000000 0.000000 0.000000
+Kd 0.717647 0.729412 0.729412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/newtex.png
+
+newmtl japan_score1
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.384314 0.411765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_score1.PNG
+
+newmtl japan_score2
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.619608 0.705882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_score2.PNG
+
+newmtl japan_score3
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.458824 0.490196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_score3.PNG
+
+newmtl japan_score4
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.313725 0.286275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_score4.PNG
+
+newmtl japan_ad4
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.415686 0.364706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/japan_ad4.PNG
+
+newmtl Terrazzo_Light_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.137255 0.113725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Terrazzo_Light_Blue.jpg
+
+newmtl yoko_ad2
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.780392 0.788235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad2.png
+
+newmtl Roofing_Slate_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.533333 0.607843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Roofing_Slate_Dark.jpg
+
+newmtl yoko_ad7
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.847059 0.839216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad7.png
+
+newmtl tokyo_ad8
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.580392 0.650980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/tokyo_ad8.png
+
+newmtl yoko_ad1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.403922 0.470588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/yoko_ad1.png
+
+newmtl Groundcover_Sand_Smooth1
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.580392 0.396078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Groundcover_Sand_Smooth1.jpg
+
+newmtl Blacktop_Old_011
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.137255 0.113725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Blacktop_Old_011.jpg
+
+newmtl seating_attendance3_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.396078 0.392157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/seating_attendance3_grey.jpg
+
+newmtl long_sides
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.329412 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/long_sides.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Quartz_Light_Grey.jpg
+
+newmtl dugout_old_home
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.298039 0.317647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/dugout_old_home.jpg
+
+newmtl Material5
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.737255 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Material5.png
+
+newmtl zzz211
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.533333 0.549020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/zzz211.jpg
+
+newmtl Color_E01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hanshin_Koshien_Stadium_Textures/Metal_Aluminum_Anodized1.jpg
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Hanshin_Koshien_Stadium_Textures/Duraports__Silver_Fabric.jpg
+
+#EOF

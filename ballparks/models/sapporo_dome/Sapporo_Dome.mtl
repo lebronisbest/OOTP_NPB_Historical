@@ -1,0 +1,324 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Sapporo_Dome.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl stadiumGERoof
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.458824 0.458824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/stadiumGERoof.jpg
+
+newmtl auto
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.572549 0.596078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto.png
+
+newmtl auto1
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.494118 0.513725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto1.png
+
+newmtl auto2
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.549020 0.541176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto2.png
+
+newmtl auto3
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.572549 0.533333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto3.png
+
+newmtl auto4
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.498039 0.490196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto4.png
+
+newmtl auto5
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.584314 0.603922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto5.png
+
+newmtl auto7
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.552941 0.560784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto7.png
+
+newmtl auto13
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.494118 0.513725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto13.png
+
+newmtl Cladding_Stucco_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Cladding_Stucco_White.jpg
+
+newmtl Material6
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Material6.jpg
+
+newmtl Blacktop_Old_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.533333 0.545098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Blacktop_Old_01.jpg
+
+newmtl Polished_Concrete_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.796078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Polished_Concrete_New.jpg
+
+newmtl seating_attendance2_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.372549
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity2_blue.jpg
+
+newmtl seating_attendance3_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.396078 0.392157
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3.jpg
+
+newmtl seating_attendance4_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.403922 0.403922
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity4.jpg
+
+newmtl Material10
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.286275 0.243137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Material10.jpg
+
+newmtl foul_pole_yellow
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.905882 0.152941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/foul_pole_yellow.jpg
+
+newmtl japan_ad7
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.509804 0.549020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/japan_ad7.PNG
+
+newmtl tokyo_ad1
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.494118 0.490196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/tokyo_ad1.png
+
+newmtl tokyo_ad2
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.592157 0.600000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/tokyo_ad2.png
+
+newmtl tokyo_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.282353 0.341176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/tokyo_ad3.png
+
+newmtl tokyo_ad7
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.517647 0.552941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/tokyo_ad7.png
+
+newmtl japan_ad2
+Ka 0.000000 0.000000 0.000000
+Kd 0.929412 0.882353 0.886275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/japan_ad2.PNG
+
+newmtl coke
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.345098 0.333333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/coke.png
+
+newmtl Brick_Common_Bond1
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.286275 0.243137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Brick_Common_Bond1.png
+
+newmtl field_grass2
+Ka 0.000000 0.000000 0.000000
+Kd 0.305882 0.521569 0.239216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/field_grass2.png
+
+newmtl Metal_Aluminum_Anodized2
+Ka 0.000000 0.000000 0.000000
+Kd 0.921569 0.952941 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Metal_Aluminum_Anodized2.jpg
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.482353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Metal_Steel_Textured.jpg
+
+newmtl Blinds_Vertical_Pattern
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.192157 0.215686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Blinds_Vertical_Pattern.JPG
+
+newmtl dugout_old_home
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.109804 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/dugout_old_home.jpg
+
+newmtl Groundcover_Sand_Smooth
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.576471 0.392157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Groundcover_Sand_Smooth.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Quartz_Light_Grey.jpg
+
+newmtl artificial_turf1
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.447059 0.262745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/artificial_turf1.jpg
+
+newmtl blackbackground
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.176471 0.176471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/blackbackground.jpg
+
+newmtl sapporo_score1
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.376471 0.392157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/sapporo_score1.png
+
+newmtl sapporo_score2
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.443137 0.517647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/sapporo_score2.png
+
+newmtl auto8
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.811765 0.819608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto8.png
+
+newmtl auto10
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.698039 0.733333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto10.png
+
+newmtl auto11
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.615686 0.623529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto11.png
+
+newmtl auto12
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.701961 0.721569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/auto12.png
+
+newmtl Color_E01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Sapporo_Dome_Textures/Metal_Aluminum_Anodized1.jpg
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Sapporo_Dome_Textures/Duraports__Silver_Fabric.jpg
+
+#EOF

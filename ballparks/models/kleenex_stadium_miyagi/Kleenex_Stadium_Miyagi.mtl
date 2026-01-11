@@ -1,0 +1,475 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Kleenex_Stadium_Miyagi.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl seating_attendance1_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.329412 0.286275
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity1_red.jpg
+
+newmtl seating_attendance2_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.356863 0.325490
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity2.jpg
+
+newmtl seating_attendance3_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.388235 0.376471
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3.jpg
+
+newmtl seating_attendance4_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.400000 0.392157
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity4.jpg
+
+newmtl Material6
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Material6.jpg
+
+newmtl crowd_new_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.360784 0.309804
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity2.jpg
+
+newmtl Vegetation_Grass_Artificial
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.549020 0.290196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Vegetation_Grass_Artificial.jpg
+
+newmtl OriolePark_UpperBrace12
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.352941 0.368627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/OriolePark_UpperBrace12.png
+
+newmtl Formica_Speckled_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.411765 0.435294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Formica_Speckled_Grey.jpg
+
+newmtl Formica_Laminate_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.207843 0.235294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Formica_Laminate_Dark.jpg
+
+newmtl seating_attendance0_new
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.239216 0.192157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/seating_attendance0_new.png
+
+newmtl blackbackground
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.176471 0.176471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/blackbackground.jpg
+
+newmtl blueside
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.623529 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/blueside.jpg
+
+newmtl contex
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.745098 0.717647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/contex.jpg
+
+newmtl cashman_brick
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.396078 0.419608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/cashman_brick.jpg
+
+newmtl Fencing_Metal_Straight2_black
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.658824 0.658824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Fencing_Metal_Straight2_black.png
+
+newmtl igl_det_tex_fenc_a_v01
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.019608 0.015686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/igl_det_tex_fenc_a_v01.png
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.200000 0.149020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Metal_Steel_Textured.jpg
+
+newmtl Material10
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.345098 0.278431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Material10.jpg
+
+newmtl kleenex_score_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.345098 0.376471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_1.png
+
+newmtl kleenex_score_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.607843 0.584314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_2.png
+
+newmtl kleenex_score_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.764706 0.600000 0.478431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_4.png
+
+newmtl kleenex_score_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.509804 0.611765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_3.png
+
+newmtl kleenex_score_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.631373 0.509804 0.423529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_6.png
+
+newmtl kleenex_score_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.545098 0.564706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_5.png
+
+newmtl kleenex_score_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.631373 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_7.png
+
+newmtl japan_ad1
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.905882 0.890196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/japan_ad1.PNG
+
+newmtl kleenex_score_8
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.200000 0.223529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_8.png
+
+newmtl kleenex_score_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.325490 0.329412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_score_10.png
+
+newmtl kleenex_ad_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.392157 0.407843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_ad_1.png
+
+newmtl kleenex_ad_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.541176 0.588235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/kleenex_ad_2.png
+
+newmtl tokyo_ad4
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.376471 0.478431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/tokyo_ad4.png
+
+newmtl tokyo_ad6
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.458824 0.419608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/tokyo_ad6.png
+
+newmtl tokyo_ad2
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.592157 0.600000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/tokyo_ad2.png
+
+newmtl tokyo_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.282353 0.341176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/tokyo_ad3.png
+
+newmtl tokyo_ad5
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.458824 0.556863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/tokyo_ad5.png
+
+newmtl tokyo_ad1
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.494118 0.490196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/tokyo_ad1.png
+
+newmtl japan_ad17
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.674510 0.654902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/japan_ad17.PNG
+
+newmtl japan_ad12
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.545098 0.470588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/japan_ad12.PNG
+
+newmtl japan_ad10
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.521569 0.745098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/japan_ad10.PNG
+
+newmtl japan_ad16
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.733333 0.768627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/japan_ad16.PNG
+
+newmtl japan_ad14
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.796078 0.729412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/japan_ad14.PNG
+
+newmtl japan_ad18
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.623529 0.184314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/japan_ad18.PNG
+
+newmtl yoko_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.474510 0.474510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/yoko_ad3.png
+
+newmtl Metal_Corrugated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Metal_Corrugated_Shiny.jpg
+
+newmtl vetoutside4
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.384314 0.360784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/vetoutside4.png
+
+newmtl black_windows
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.141176 0.172549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/black_windows.jpg
+
+newmtl luzury_box
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.364706 0.372549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/luzury_box.jpg
+
+newmtl Brick_Antique_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Brick_Antique_01.jpg
+
+newmtl wrigleyChainLinkFence
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.360784 0.388235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/wrigleyChainLinkFence.png
+
+newmtl foul_pole_yellow
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.905882 0.152941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/foul_pole_yellow.jpg
+
+newmtl Brick_Common_Bond1
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.345098 0.278431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Brick_Common_Bond1.png
+
+newmtl Material23
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.478431 0.333333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Material23.PNG
+
+newmtl Concrete_Stamped_Ashlar
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.278431 0.258824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Concrete_Stamped_Ashlar.jpg
+
+newmtl Material11
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.525490 0.254902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Material11.jpg
+
+newmtl Metal_Silver
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.976471 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Metal_Silver.jpg
+
+newmtl Material12
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.431373 0.364706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Material12.jpg
+
+newmtl Groundcover_Sand_Smooth1
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.576471 0.392157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Groundcover_Sand_Smooth1.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Quartz_Light_Grey.jpg
+
+newmtl dugout_old_home
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.109804 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/dugout_old_home.jpg
+
+newmtl Material5
+Ka 0.000000 0.000000 0.000000
+Kd 0.007843 0.137255 0.031373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Material5.png
+
+newmtl zzz211
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.533333 0.549020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/zzz211.jpg
+
+newmtl Color_E01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Metal_Aluminum_Anodized1.jpg
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Kleenex_Stadium_Miyagi_Textures/Duraports__Silver_Fabric.jpg
+
+#EOF

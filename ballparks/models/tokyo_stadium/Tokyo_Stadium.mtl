@@ -1,0 +1,337 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Tokyo_Stadium.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl GreenDark_WallPad
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.247059 0.180392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/GreenDark_WallPad.jpg
+
+newmtl greenconcretewalltexture
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.219608 0.090196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/greenconcretewalltexture.jpg
+
+newmtl Walkway_Color
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.458824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Walkway_Color.jpg
+
+newmtl Tunnel
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.058824 0.062745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Tunnel.jpg
+
+newmtl Gray_Cement
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.521569 0.517647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Gray_Cement.jpg
+
+newmtl whitecementtexture
+Ka 0.000000 0.000000 0.000000
+Kd 0.929412 0.929412 0.929412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/whitecementtexture.jpg
+
+newmtl Polished_Gray_Concrete_Enhance
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Polished_Gray_Concrete_Enhance.jpg
+
+newmtl Metal_Worn_out2
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.576471 0.596078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Metal_Worn_out2.JPG
+
+newmtl metal_roof_35_52_diffuse
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.200000 0.200000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/metal_roof_35_52_diffuse.jpg
+
+newmtl Window_Wall
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.454902 0.450980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Window_Wall.jpg
+
+newmtl Lower_Bowl
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.133333 0.129412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Lower_Bowl.jpg
+
+newmtl Metal_Aluminum_Anodized2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Metal_Aluminum_Anodized2.jpg
+
+newmtl Infield
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.188235 0.125490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Infield.jpg
+
+newmtl driedgrassbackgroundseamless
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.266667 0.192157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/driedgrassbackgroundseamless.jpg
+
+newmtl Material9
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.552941 0.584314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Material9.png
+
+newmtl Material9_YellowTop
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.337255 0.313725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Material9_YellowTop.png
+
+newmtl Pepsi_Logo
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.474510 0.701961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Pepsi_Logo.jpg
+
+newmtl KawaShinlogobig
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.850980 0.843137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/KawaShinlogobig.jpg
+
+newmtl Hitachi
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.356863 0.674510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Hitachi.jpg
+
+newmtl logo_asahilife
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.729412 0.729412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/logo_asahilife.jpg
+
+newmtl JBM
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.266667 0.101961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/JBM.jpg
+
+newmtl Beer_Ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.725490 0.478431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Beer_Ad.jpg
+
+newmtl Sony_Ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.352941 0.729412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Sony_Ad.jpg
+
+newmtl Columbia_Logo
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.298039 0.345098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Columbia_Logo.jpg
+
+newmtl CocaCola
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.337255 0.372549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/CocaCola.jpg
+
+newmtl Del_Monte
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.513725 0.290196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Del_Monte.jpg
+
+newmtl Metapu
+Ka 0.000000 0.000000 0.000000
+Kd 0.839216 0.196078 0.341176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Metapu.jpg
+
+newmtl sns_top
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.705882 0.713725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/sns_top.jpg
+
+newmtl Quartz_Light_Grey1
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.984314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Quartz_Light_Grey1.jpg
+
+newmtl grass_light
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.541176 0.215686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/grass_light.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Quartz_Light_Grey.jpg
+
+newmtl Skyline_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.062745 0.066667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Skyline_day.png
+
+newmtl Map_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.490196 0.368627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Map_day.png
+
+newmtl Scoreboard
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.211765 0.129412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Scoreboard.jpg
+
+newmtl seating_attendance1_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.360784 0.360784 0.356863
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity1_grey.jpg
+
+newmtl seating_attendance3_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.407843 0.403922
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_grey.jpg
+
+newmtl auto35
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.235294 0.592157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/auto35.jpg
+
+newmtl white_pole_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.878431 0.878431 0.878431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/white_pole_day.png
+
+newmtl Light_Bulb_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Light_Bulb_day.png
+
+newmtl Light_Pole_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.615686 0.627451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Light_Pole_day.png
+
+newmtl Alumi_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.768627 0.807843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/Alumi_day.png
+
+newmtl ootp_scoreboard_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/ootp_scoreboard_0.png
+
+newmtl ootp_scoreboard_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.023529 0.023529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/ootp_scoreboard_1.png
+
+newmtl ootp_scoreboard_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/ootp_scoreboard_2.png
+
+newmtl ootp_scoreboard_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Tokyo_Stadium_Textures/ootp_scoreboard_3.png
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Tokyo_Stadium_Textures/Duraports__Silver_Fabric.jpg
+
+#EOF

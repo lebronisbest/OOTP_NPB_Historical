@@ -1,0 +1,487 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Mazda_Zoom_Zoom_Stadium.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl mazda_score1
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.160784 0.231373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/mazda_score1.JPG
+
+newmtl mazda_score2
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.152941 0.207843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/mazda_score2.PNG
+
+newmtl Material10
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.266667 0.227451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Material10.jpg
+
+newmtl Material6
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Material6.jpg
+
+newmtl cashman_brick
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.301961 0.321569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/cashman_brick.jpg
+
+newmtl Concrete_Block_Layers
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.545098 0.549020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Concrete_Block_Layers.jpg
+
+newmtl Roofing_Shingles_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.705882 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Roofing_Shingles_Multi.jpg
+
+newmtl Metal_Corrugated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Metal_Corrugated_Shiny.jpg
+
+newmtl facade2
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.149020 0.149020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/facade2.png
+
+newmtl georgia
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.250980 0.396078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/georgia.png
+
+newmtl wrigleyChainLinkFence
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.078431
+Ks 0.000000 0.000000 0.000000
+d 0.990000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/wrigleyChainLinkFence.png
+
+newmtl Material9
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.525490 0.254902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Material9.jpg
+
+newmtl Cladding_Siding_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.811765 0.811765 0.811765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Cladding_Siding_White.jpg
+
+newmtl Fencing_Metal_Straight
+Ka 0.000000 0.000000 0.000000
+Kd 0.760784 0.764706 0.768627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Fencing_Metal_Straight.png
+
+newmtl Brick_Common_Bond1
+Ka 0.000000 0.000000 0.000000
+Kd 0.082353 0.168627 0.133333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Brick_Common_Bond1.png
+
+newmtl Granite_Light_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.227451 0.192157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Granite_Light_Gray.jpg
+
+newmtl Granite_Dark_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.266667 0.266667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Granite_Dark_Gray.jpg
+
+newmtl wrigleyChainLinkFence1
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.200000 0.152941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/wrigleyChainLinkFence1.png
+
+newmtl Asphalt_Stripe_Texture4
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.470588 0.478431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Asphalt_Stripe_Texture4.JPG
+
+newmtl foul_pole_yellow
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.905882 0.152941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/foul_pole_yellow.jpg
+
+newmtl Metal_Corrugated_Shiny1
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.478431 0.478431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Metal_Corrugated_Shiny1.jpg
+
+newmtl fence_crowd
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.156863 0.133333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/fence_crowd.PNG
+
+newmtl wrigleyChainLinkFence2
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.713725 0.768627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/wrigleyChainLinkFence2.png
+
+newmtl seating_attendance3_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.388235 0.376471
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_red.jpg
+
+newmtl seating_attendance4_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.400000 0.392157
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity4_red.jpg
+
+newmtl seating_attendance2_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.356863 0.325490
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity2_red.jpg
+
+newmtl seating_attendance3_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.396078 0.392157
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_red.jpg
+
+newmtl seating_attendance0_new
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.329412 0.235294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/seating_attendance0_new.png
+
+newmtl Metal_Silver
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.913725 0.933333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Metal_Silver.jpg
+
+newmtl Material4
+Ka 0.000000 0.000000 0.000000
+Kd 0.274510 0.360784 0.498039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Material4.png
+
+newmtl mazda_homerun
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.513725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/mazda_homerun.png
+
+newmtl Groundcover_Sand_Raked1
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 1.000000 0.945098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Groundcover_Sand_Raked1.jpg
+
+newmtl Groundcover_Sand_Smooth2
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.545098 0.396078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Groundcover_Sand_Smooth2.jpg
+
+newmtl 04
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.360784 0.368627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/04.jpg
+
+newmtl OriolePark_UpperBrace12
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.352941 0.368627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/OriolePark_UpperBrace12.png
+
+newmtl luxury_box_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.231373 0.239216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/luxury_box_1.png
+
+newmtl Asphalt_Stripe_Texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.384314 0.368627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Asphalt_Stripe_Texture.JPG
+
+newmtl press_box1
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.341176 0.329412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/press_box1.png
+
+newmtl lacy_face
+Ka 0.000000 0.000000 0.000000
+Kd 0.282353 0.294118 0.294118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/lacy_face.jpg
+
+newmtl Metal_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.321569 0.329412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Metal_Rough.jpg
+
+newmtl japan_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.588235 0.615686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/japan_ad3.PNG
+
+newmtl japan_ad8
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.396078 0.439216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/japan_ad8.PNG
+
+newmtl japan_ad4
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.415686 0.364706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/japan_ad4.PNG
+
+newmtl yoko_ad2
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.780392 0.788235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad2.png
+
+newmtl yoko_ad4
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.737255 0.827451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad4.png
+
+newmtl yoko_ad9
+Ka 0.000000 0.000000 0.000000
+Kd 0.847059 0.878431 0.854902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad9.png
+
+newmtl japan_ad5
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.513725 0.568627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/japan_ad5.PNG
+
+newmtl yoko_ad6
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.521569 0.709804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad6.png
+
+newmtl yoko_ad10
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.192157 0.215686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad10.png
+
+newmtl yoko_ad8
+Ka 0.000000 0.000000 0.000000
+Kd 0.909804 0.874510 0.874510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad8.png
+
+newmtl Steel_Brushed_Stainless
+Ka 0.000000 0.000000 0.000000
+Kd 0.717647 0.733333 0.745098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Steel_Brushed_Stainless.jpg
+
+newmtl yoko_ad1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.403922 0.470588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad1.png
+
+newmtl yoko_ad11
+Ka 0.000000 0.000000 0.000000
+Kd 0.835294 0.870588 0.925490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad11.png
+
+newmtl rfk_ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.870588 0.415686 0.454902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/rfk_ad.png
+
+newmtl yoko_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.474510 0.474510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/yoko_ad3.png
+
+newmtl japan_ad10
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.521569 0.745098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/japan_ad10.PNG
+
+newmtl japan_ad11
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.682353 0.772549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/japan_ad11.PNG
+
+newmtl japan_ad9
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.376471 0.423529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/japan_ad9.PNG
+
+newmtl japan_ad13
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.580392 0.647059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/japan_ad13.PNG
+
+newmtl mazda1
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.533333 0.439216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/mazda1.png
+
+newmtl dugout
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.203922 0.211765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/dugout.jpg
+
+newmtl luxury_box_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.184314 0.203922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/luxury_box_4.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Quartz_Light_Grey.jpg
+
+newmtl Color_E01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Metal_Aluminum_Anodized1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Metal_Aluminum_Anodized1.jpg
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/Duraports__Silver_Fabric.jpg
+
+newmtl mazda15
+Ka 0.000000 0.000000 0.000000
+Kd 0.878431 0.890196 0.866667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Mazda_Zoom_Zoom_Stadium_Textures/mazda15.png
+
+#EOF

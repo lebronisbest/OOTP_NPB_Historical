@@ -1,0 +1,556 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Osaka_Stadium.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl auto21
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.333333 0.333333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Gray_Cement
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.521569 0.517647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Gray_Cement.jpg
+
+newmtl Tunnel
+Ka 0.000000 0.000000 0.000000
+Kd 0.058824 0.058824 0.062745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Tunnel.jpg
+
+newmtl seating_attendance3_green
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.396078 0.368627
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_green.jpg
+
+newmtl Dark_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.298039 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Dark_Grey.jpg
+
+newmtl GreenDark_WallPad
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.223529 0.180392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/GreenDark_WallPad.jpg
+
+newmtl greenconcretewalltexture
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.211765 0.180392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/greenconcretewalltexture.jpg
+
+newmtl Dark_Green2
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.270588 0.211765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Dark_Green2.JPG
+
+newmtl Walkway_Color
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.458824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Walkway_Color.jpg
+
+newmtl Scoreboard_Sides
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.627451 0.725490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Scoreboard_Sides.jpg
+
+newmtl Scoreboard_Main
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.160784 0.176471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Scoreboard_Main.jpg
+
+newmtl Scoreboard_Top1
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.270588 0.309804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Scoreboard_Top1.jpg
+
+newmtl Scoreboard_Top2
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.282353 0.325490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Scoreboard_Top2.jpg
+
+newmtl Scoreboard_Top3
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.341176 0.364706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Scoreboard_Top3.jpg
+
+newmtl Scoreboard_Top4
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.164706 0.160784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Scoreboard_Top4.jpg
+
+newmtl Scoreboard_Middle
+Ka 0.000000 0.000000 0.000000
+Kd 0.360784 0.333333 0.321569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Scoreboard_Middle.jpg
+
+newmtl 2nd_Scoreboard_Bottom
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.337255 0.411765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/2nd_Scoreboard_Bottom.jpg
+
+newmtl 2nd_Scoreboard_Top
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.478431 0.482353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/2nd_Scoreboard_Top.jpg
+
+newmtl Metal_Worn_out
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.556863 0.572549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Metal_Worn_out.JPG
+
+newmtl Polished_Gray_Concrete_Enhance
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Polished_Gray_Concrete_Enhance.jpg
+
+newmtl redmetaltexturescratchescracks
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.176471 0.125490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/redmetaltexturescratchescracks.jpg
+
+newmtl Straight_Panels4
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.564706 0.662745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Straight_Panels4.jpg
+
+newmtl Exterior_Wall
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.215686 0.215686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Exterior_Wall.jpg
+
+newmtl Material9_YellowTop
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.337255 0.313725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Material9_YellowTop.png
+
+newmtl sharplogo
+Ka 0.000000 0.000000 0.000000
+Kd 0.964706 0.701961 0.713725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/sharplogo.jpg
+
+newmtl Takashimaya
+Ka 0.000000 0.000000 0.000000
+Kd 0.788235 0.274510 0.294118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Takashimaya.png
+
+newmtl ZETT
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.325490 0.325490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/ZETT.jpg
+
+newmtl MRB400_400
+Ka 0.000000 0.000000 0.000000
+Kd 0.192157 0.254902 0.611765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/MRB400_400.jpg
+
+newmtl Milkdesign
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.741176 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Milkdesign.jpg
+
+newmtl Takara_Ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.501961 0.945098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Takara_Ad.JPG
+
+newmtl Daikin
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.764706 0.788235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Daikin.JPG
+
+newmtl SSK_Sports
+Ka 0.000000 0.000000 0.000000
+Kd 0.901961 0.803922 0.803922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/SSK_Sports.jpg
+
+newmtl Sony_Ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.352941 0.717647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Sony_Ad.jpg
+
+newmtl Title2
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.486275 0.301961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Title2.jpg
+
+newmtl Outfield_AD
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.768627 0.792157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Outfield_AD.png
+
+newmtl Asahi
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.184314 0.184314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Asahi.JPG
+
+newmtl Obayashi
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.470588 0.701961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Obayashi.jpg
+
+newmtl CocaCola
+Ka 0.000000 0.000000 0.000000
+Kd 0.894118 0.337255 0.364706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/CocaCola.jpg
+
+newmtl Material9
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.552941 0.584314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Material9.png
+
+newmtl TealGreen_Fence_3_bars_Vertical
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.301961 0.349020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/TealGreen_Fence_3_bars_Vertical.png
+
+newmtl TealGreen_Horizontal_Bar
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.227451 0.227451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/TealGreen_Horizontal_Bar.png
+
+newmtl logo_kyoeikasai
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.725490 0.721569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/logo_kyoeikasai.png
+
+newmtl sponsor_logo_nankai
+Ka 0.000000 0.000000 0.000000
+Kd 0.839216 0.796078 0.764706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/sponsor_logo_nankai.png
+
+newmtl Nankai
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.800000 0.752941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Nankai.png
+
+newmtl Ebios_Logo
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.525490 0.094118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Ebios_Logo.png
+
+newmtl Outfield_Ad2
+Ka 0.000000 0.000000 0.000000
+Kd 0.717647 0.709804 0.709804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Outfield_Ad2.jpg
+
+newmtl 20210913_10h21_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.909804 0.921569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/20210913_10h21_14.png
+
+newmtl ucccoffee
+Ka 0.000000 0.000000 0.000000
+Kd 0.866667 0.341176 0.380392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/ucccoffee.png
+
+newmtl Hitachi
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.352941 0.662745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Hitachi.jpg
+
+newmtl Beer_Ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.764706 0.725490 0.474510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Beer_Ad.jpg
+
+newmtl Meshed_Window
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.278431 0.262745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Meshed_Window.jpg
+
+newmtl Building_Sides
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.611765 0.572549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Building_Sides.jpg
+
+newmtl Shops0038_350
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.415686 0.309804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Shops0038_350.jpg
+
+newmtl Entrance2
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.352941 0.333333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Entrance2.JPG
+
+newmtl Skyline_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.168627 0.168627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Skyline_day.png
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Quartz_Light_Grey.jpg
+
+newmtl Groundcover_Sand_Smooth1
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.384314 0.231373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Groundcover_Sand_Smooth1.jpg
+
+newmtl Infield
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.345098 0.223529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Infield.jpg
+
+newmtl grass_light
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.584314 0.227451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/grass_light.jpg
+
+newmtl Map_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.611765 0.631373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Map_day.png
+
+newmtl white_cement_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.929412 0.929412 0.929412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/white_cement_day.png
+
+newmtl Blue_wall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.301961 0.501961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Blue_wall_day.png
+
+newmtl metal_plate_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.737255 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/metal_plate_day.png
+
+newmtl Walltexture_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.384314 0.258824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Walltexture_day.png
+
+newmtl Concrete_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.521569 0.521569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Concrete_day.png
+
+newmtl entrance_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.541176 0.509804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/entrance_day.png
+
+newmtl Blue_Wall_Block
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.584314 0.619608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Blue_Wall_Block.png
+
+newmtl Dark_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.176471 0.188235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/Dark_blue.png
+
+newmtl 2nd_Scoreboard_right
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.603922 0.635294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/2nd_Scoreboard_right.jpg
+
+newmtl 2nd_Scoreboard_left
+Ka 0.000000 0.000000 0.000000
+Kd 0.631373 0.572549 0.580392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/2nd_Scoreboard_left.jpg
+
+newmtl auto20
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl auto2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl ootp_scoreboard_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/ootp_scoreboard_0.png
+
+newmtl ootp_scoreboard_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.023529 0.023529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/ootp_scoreboard_1.png
+
+newmtl ootp_scoreboard_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/ootp_scoreboard_2.png
+
+newmtl ootp_scoreboard_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/ootp_scoreboard_3.png
+
+newmtl ootp_scoreboard_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Osaka_Stadium_Textures/ootp_scoreboard_4.png
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Osaka_Stadium_Textures/Duraports__Silver_Fabric.jpg
+
+#EOF
