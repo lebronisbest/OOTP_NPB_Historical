@@ -1,6 +1,7 @@
 # FAQ
 
-## Q: Can I load both NPB and MLB at the same time?
+<details>
+<summary><b>Q: Can I load both NPB and MLB at the same time?</b></summary>
 
 Technically possible, but not recommended.
 
@@ -9,3 +10,5 @@ This NPB historical mod is built on top of the MLB historical database structure
 More importantly, NPB is set at the same level as MLB in this mod, which would create balance issues if you merged them.
 
 This mod is meant to be played standalone.
+
+</details>
