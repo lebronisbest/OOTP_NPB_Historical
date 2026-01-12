@@ -13,7 +13,7 @@ The most comprehensive Nippon Professional Baseball (NPB) historical database fo
 | Pitching Records | 24,951 |
 | Pitchers with Repertoire | 349 |
 | Team-Seasons | 1,032 |
-| Years Covered | 1936-2024 |
+| Years Covered | 1936-2025 |
 
 ### What's Included
 
@@ -23,7 +23,7 @@ The most comprehensive Nippon Professional Baseball (NPB) historical database fo
 - **Postseason Data**: Japan Series, Climax Series, All-Star games
 - **Hall of Fame**: Complete voting records
 - **Awards**: MVP, Best Nine, Golden Glove, Sawamura Award, Rookie of the Year
-- **Minor League**: Ni-Gun (Farm) league data (2008-2024)
+- **Minor League**: Ni-Gun (Farm) league data (2008-2025)
 - **Visual Assets**: 100+ team logos, uniforms, ballpark files
 
 ## Installation
