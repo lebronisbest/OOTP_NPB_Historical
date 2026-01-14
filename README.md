@@ -119,6 +119,10 @@ Found an error? Want to contribute?
 
 ## Changelog
 
+### v1.0.1 (2025-01-14)
+- Added Nippon Life Stadium (Kintetsu Buffaloes home 1958-1983)
+- Added missing foreign player stats (Jose Fernandez, Andruw Jones, etc.)
+
 ### v1.0.0 (2025-01-11)
 - Initial public release
 - 8,165 players with complete statistics

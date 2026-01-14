@@ -18,6 +18,7 @@
 | Meiji Jingu Stadium | silvam14 | Yes | [MediaFire](https://www.mediafire.com/folder/55wyfp342pf9q/Custom_Stadiums) |
 | Nagoya Dome | silvam14 | Yes | [MediaFire](https://www.mediafire.com/folder/55wyfp342pf9q/Custom_Stadiums) |
 | Nagoya Stadium | Flying_Canuck | Yes | [OOTP Forums](https://forums.ootpdevelopments.com/showpost.php?p=4979641&postcount=144) |
+| Nippon Life Stadium | lebronisbest | Original | - |
 | Nishinomiya Stadium | Flying_Canuck | Yes | [OOTP Forums](https://forums.ootpdevelopments.com/showpost.php?p=5012755&postcount=181) |
 | Okinawa Cellular Stadium | Flying_Canuck | Yes | [OOTP Forums](https://forums.ootpdevelopments.com/showpost.php?p=5127601&postcount=326) |
 | Osaka Stadium | Flying_Canuck | Yes | [OOTP Forums](https://forums.ootpdevelopments.com/showthread.php?p=4861562) |
