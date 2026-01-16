@@ -119,6 +119,10 @@ Found an error? Want to contribute?
 
 ## Changelog
 
+### v1.0.2 (2025-01-16)
+- Added ES CON Field Hokkaido (Fighters home 2023-)
+- Fixed franchise ID duplication bug for merged teams (Orix/Kintetsu, Shochiku/Taiyo)
+
 ### v1.0.1 (2025-01-14)
 - Added Nippon Life Stadium (Kintetsu Buffaloes home 1958-1983)
 - Added missing foreign player stats (Jose Fernandez, Andruw Jones, etc.)
