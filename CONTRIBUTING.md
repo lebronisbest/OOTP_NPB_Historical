@@ -89,12 +89,17 @@ Examples:
 
 ### Uniforms
 ```
-teamname_startyear-endyear.png (home)
-teamname_startyear-endyear_away.png (away)
+type_teamname_startyear-endyear.png (home)
+type_teamname_away_startyear-endyear.png (away)
+type_teamname_alt_startyear-endyear.png (alternate)
 ```
+Types: `jerseys`, `pants`, `caps`, `socks`
+
 Examples:
-- `tokyo_giants_1975-1992.png`
-- `tokyo_giants_1975-1992_away.png`
+- `jerseys_Tokyo_Giants_1975-1992.png`
+- `jerseys_Tokyo_Giants_away_1975-1992.png`
+- `pants_Tokyo_Giants_1975-1992.png`
+- `caps_Tokyo_Giants_away_1975-1992.png`
 
 ## Questions?
 

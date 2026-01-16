@@ -4,6 +4,7 @@
 
 | Ballpark | Creator | Permission | Source |
 |----------|---------|------------|--------|
+| ES CON Field Hokkaido | lebronisbest | Original | - |
 | Fujiidera Stadium | Flying_Canuck | Yes | [OOTP Forums](https://forums.ootpdevelopments.com/showpost.php?p=5181245&postcount=421) |
 | Fukuoka Yafuoku! Dome | silvam14 | Yes | [MediaFire](https://www.mediafire.com/folder/55wyfp342pf9q/Custom_Stadiums) |
 | Hanshin Koshien Stadium | silvam14 | Yes | [MediaFire](https://www.mediafire.com/folder/55wyfp342pf9q/Custom_Stadiums) |
